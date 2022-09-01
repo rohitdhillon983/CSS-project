@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(18, 18, 18);
+    min-height: 100vh;
+   
+}
+.top{
+    border: 2px solid black;
+    width: 220px;
+    height:220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 3;
+    background: rgb(0, 255, 102);
+}
+span{
+    /* border: 1px solid red; */
+    width: 210px;
+    height: 210px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+}
+span img{
+    width: 200px;
+    height: 200px;
+}
+.bottom{
+    border: 5px solid transparent;
+    position: absolute;
+    top: 230px;
+    width: 320px;
+    height: 390px;
+    overflow: hidden;
+}
+.bottom::before{
+    content: '';
+    background: conic-gradient(rgba(6, 247, 6, 0.687) 25deg,yellow 70deg,transparent 140deg);
+    width: 850px;
+    height: 720px;
+    position: absolute;
+    left:-100px;
+    top:0;
+    margin: -150px;
+    animation: animate 4s linear infinite;
+}
+@keyframes animate{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(-360deg);
+    }
+}
+.bottom::after{
+    content: '';
+    width: 300px;
+    height: 370px;
+    z-index: 0;
+    background: rgb(9, 9, 9);
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+h2{
+    color: aqua;
+    position: relative;
+    top: 180px;
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+    letter-spacing: 0.05cm;
+    z-index: 1;
+}
+h5{
+    display: flex;
+    justify-content: center;
+    color: white;
+    position: relative;
+    top: 180px;
+    font-family: cursive;
+    font-size: 15px;
+    z-index: 1;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content:center;
+    position: relative;
+    top:200px;
+    z-index: 1;
+}
+p{
+    color: aqua;
+    font-size: 30px;
+    font-family: arial;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+li{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 0.05cm;
+    padding-left: -30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+#msgmain{
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 80px;
+    position: relative;
+    top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+#msgmain .follow{
+    width: 40%;
+    height: 40px;
+    background: aqua;
+    margin: auto;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: arial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#msgmain .message{
+    width: 40%;
+    height: 40px;
+    background: white;
+    margin: auto;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: arial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

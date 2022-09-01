@@ -22,19 +22,17 @@ body{
 }
 .searchbox:hover{
     width: 400px;
+    padding-right:-100px;
 }
 .searchbox i{
     position: absolute;
-    right:20px;
-    left: 9px;
+    right:10px;
+    /* left: 9px; */
     top: 0;
     line-height: 50px;
     font-size: 25px;
     color: rgb(249, 247, 247);
     transition: 2s;
-}
-i:hover{
-    left: 360px;
 }
 .searchbox input{
     position: relative;
