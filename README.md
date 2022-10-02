@@ -1,4 +1,4 @@
-# CSS-project light cube
+# CSS-project light cube (using animation tool)
 
 # link
 https://dapper-malasada-9095d6.netlify.app
