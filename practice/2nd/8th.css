@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    position: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #050505;
+}
+.cube1{
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    width: 200px;
+    height: 200px;
+    /* border: 2px solid red; */
+    transform-style: preserve-3d;
+    transform: rotateX(-30deg);
+    animation: animate 4s linear infinite;
+}
+@keyframes animate {
+    0%{
+        transform: rotateX(-30deg) rotateY(0);
+    }
+    100%{
+        transform: rotateX(-30deg) rotateY(360deg);
+    }
+}
+.cube1 div{
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+}
+.cube1 div span {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(gray,rgb(243, 7, 7));
+    transform: rotateY(calc(90deg * var(--i))) translateZ(100px);
+}
+.top1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+    /* border: 2px solid green; */
+    background: gray;
+    transform: rotateX(90deg) translateZ(100px);
+}
+.top1::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 200px;
+    height: 200px;
+    background: red;
+    transform: translateZ(-250px);
+    filter: blur(30px);
+    box-shadow: 0 0 120px rgb(255, 0, 0, 0.1),
+    0 0 200px rgb(255, 0, 0 ,0.4),
+    0 0 300px rgb(255, 0, 0, 0.6),;
+}
+/* SECIMD */
+.cube2{
+    position: absolute;
+    top: 50px;
+    left: 550px;
+    width: 100px;
+    height: 100px;
+    /* border: 2px solid red; */
+    transform-style: preserve-3d;
+    transform: rotateX(-30deg);
+    animation: animat 10s linear infinite;
+}
+@keyframes animat {
+    0%{
+        transform: rotateX(-30deg) rotateY(0);
+    }
+    20%{
+        transform: rotateX(-30deg) rotateY(-180deg);
+    }
+    60%{
+        transform: rotateX(-30deg) rotateY(-90deg);
+    }
+    100%{
+        transform: rotateX(-30deg) rotateY(360deg);
+    }
+}
+.cube2 div{
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+}
+.cube2 div span {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgb(126, 166, 143),rgb(0, 255, 225));
+    transform: rotateY(calc(90deg * var(--i))) translateZ(50px);
+}
+.top2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+    /* border: 2px solid green; */
+    background:rgb(126, 166, 143);
+    transform: rotateX(90deg) translateZ(50px);
+}
+.top2::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100px;
+    height: 100px;
+    background: rgb(0, 255, 255);
+    transform: translateZ(-130px);
+    filter: blur(20px);
+    box-shadow: 0 0 120px rgb(0, 255, 255, 0.1),
+    0 0 200px rgb(0, 255, 255 ,0.4),
+    0 0 300px rgb(0, 255, 255, 0.6),
+    0 0 400px rgb(0, 255, 255,0.8);
+}
+/* THREE */
+.cube3{
+    position: absolute;
+    top: 150px;
+    left: 850px;
+    width: 300px;
+    height: 300px;
+    /* border: 2px solid red; */
+    transform-style: preserve-3d;
+    transform: rotateX(-30deg);
+    animation: animate 8s linear infinite;
+}
+@keyframes animate {
+    0%{
+        transform: rotateX(-30deg) rotateY(0);
+    }
+    100%{
+        transform: rotateX(-30deg) rotateY(-360deg);
+    }
+}
+.cube3 div{
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+}
+.cube3 div span {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(gray,rgb(43, 255, 0));
+    transform: rotateY(calc(90deg * var(--i))) translateZ(150px);
+}
+.top3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 300px;
+    /* border: 2px solid green; */
+    background: gray;
+    transform: rotateX(90deg) translateZ(150px);
+}
+.top3::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 300px;
+    height: 300px;
+    background: rgb(43, 255, 0);
+    transform: translateZ(-380px);
+    filter: blur(30px);
+}
