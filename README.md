@@ -26,3 +26,11 @@ https://fantastic-arithmetic-2aa609.netlify.app
  https://cozy-lily-e7b8c9.netlify.app
  
  ![Screenshot (210)](https://user-images.githubusercontent.com/112082808/193984006-82a50852-c613-45da-a66a-f2fb35188dff.png)
+
+# CSS-Project (loading page 2)
+
+# link
+https://lively-begonia-492c62.netlify.app
+
+
+![Screenshot (212)](https://user-images.githubusercontent.com/112082808/194244912-6754998f-56c5-46cb-b349-804d7880944c.png)
