@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    min-height: 100vh;
+
+}
+footer{
+    position: relative;
+    width: 1245px;
+    background: #3586ff;
+    min-height:100px;
+    padding: 20px 50px;
+}
