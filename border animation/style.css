@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(58, 56, 56);
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    padding: 15px;
+    width: 240px;
+    height: 280px;
+    box-shadow: 8px 8px 5px 2px black;
+    border-radius: 15px;
+    overflow: hidden;
+   
+}
+div::before{
+    content: '';
+    border-radius: 15px;
+    background: conic-gradient(rgba(6, 247, 6, 0.687) 25deg,yellow 70deg,transparent 140deg);
+    width: 160%;
+    height: 160%;
+    position: absolute;
+    animation: animate 4s linear infinite;
+}
+div::after{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    content: "editing room";
+    position: absolute;
+    color: orange;
+    font-size: 36px;
+    line-height: 2;
+    border-radius: 12px;
+    width: 220px;
+    height: 260px;
+    background:rgb(58, 56, 56) ;
+    box-shadow: inset 15px 15px 15px rgb(20, 20, 20);
+}
+@keyframes animate{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(-360deg);
+    }
+}
