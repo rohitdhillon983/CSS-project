@@ -4,7 +4,7 @@
 https://dapper-malasada-9095d6.netlify.app
 
 ![Screenshot (206)](https://user-images.githubusercontent.com/112082808/193463971-d39023eb-cdc1-48a1-9b37-72e0f8dd7f1a.png)
-
+ 
 
 # CSS-project 
 
@@ -42,3 +42,20 @@ https://quiet-pasca-7c65c5.netlify.app
 
 
 ![Screenshot (213)](https://user-images.githubusercontent.com/112082808/194246044-f18c955c-9c92-4e52-9de0-963fb61c15e7.png)
+
+
+# CSS-Project (footer)
+
+# link 
+https://soft-mermaid-b67184.netlify.app
+
+![Screenshot (216)](https://user-images.githubusercontent.com/112082808/194546459-a3332ad2-a5e5-440b-ad03-d1c7cb17cc9e.png)
+
+
+# CSS-Project (Three circle loading page)
+
+# link
+https://melodious-quokka-af9d0e.netlify.app
+
+![Screenshot (214)](https://user-images.githubusercontent.com/112082808/194547611-7523d594-3044-4b85-bfe1-5048ad73d6b7.png)
+
