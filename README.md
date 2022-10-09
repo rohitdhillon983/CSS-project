@@ -72,3 +72,10 @@ https://jovial-biscuit-2ad290.netlify.app
 https://moonlit-longma-b03952.netlify.app
 
 ![Screenshot (219)](https://user-images.githubusercontent.com/112082808/194737827-5ca7180b-5ec7-446f-9099-a5c54b2ad590.png)
+
+# CSS Glow Icon effect
+
+# lik
+https://remarkable-jalebi-62bc58.netlify.app
+
+![Screenshot (220)](https://user-images.githubusercontent.com/112082808/194738032-6b0aa809-0162-42c8-bed2-93db17a78ae4.png)
