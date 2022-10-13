@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #111;
+}
+body .scan{
+    /* border: 1px solid red; */
+    width: 350px;
+    height: 350px;
+    position: relative;
+    background: url(border.png);
+    background-size: 350px;
+}
+.code{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    width: 300px;
+    height: 300px;
+    background: url(QR_Code01.png);
+    background-size: 300px;
+}
+.code::before{
+    content: '';
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url(QR_Code02.png);
+    background-size: 300px;
+    animation: animate 5s ease-in-out infinite;
+}
+@keyframes animate{
+    0%,100%{
+        height: 0;
+    }
+    50%{
+        height: 100%;
+    }
+}
+.code::after{
+    content: '';
+    position:absolute;
+    top: 10px;
+    left: 14px;
+    width: 90%;
+    height: 6px;
+    border-radius: 5px;
+    background: green;
+    animation: animate1 5s ease-in-out infinite;
+}
+@keyframes animate1{
+    0%,100%{
+        top: 0;
+    }
+    50%{
+        top: 100%;
+    }
+}
+h3{
+    color: aliceblue;
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.05cm;
+    font-size: 30px;
+}
+span{
+    animation: animate2 1s linear infinite;
+}
+@keyframes animate2{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity:100%;
+    }
+}
