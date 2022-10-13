@@ -119,5 +119,9 @@ https://majestic-fenglisu-b5e17b.netlify.app
 ![Screenshot (230)](https://user-images.githubusercontent.com/112082808/195632940-62c20ddb-c23f-4347-bf6d-c2525fc37df9.png)
 
 
+# CSS - QR code scanner
+# link
+https://verdant-valkyrie-9d3bdf.netlify.app
+
 
 
