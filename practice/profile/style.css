@@ -20,6 +20,8 @@ body{
     align-items: center;
     z-index: 3;
     background: rgb(0, 255, 102);
+    position: absolute;
+    top: 150px;
 }
 span{
     /* border: 1px solid red; */
@@ -37,10 +39,14 @@ span img{
 .bottom{
     border: 5px solid transparent;
     position: absolute;
-    top: 230px;
+    top: 200px;
     width: 320px;
-    height: 390px;
+    height: 250px;
     overflow: hidden;
+    transition: 2s;
+}
+.bottom:hover{
+    height: 390px;
 }
 .bottom::before{
     content: '';
