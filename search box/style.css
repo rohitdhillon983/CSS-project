@@ -27,7 +27,6 @@ body{
 .searchbox i{
     position: absolute;
     right:10px;
-    /* left: 9px; */
     top: 0;
     line-height: 50px;
     font-size: 25px;
@@ -39,7 +38,6 @@ body{
     width: 100%;
     height: 100%;
     border-color: white;
-    /* border: none; */
     border-radius:20px;
     padding: 10px 25px;
     outline: none;
