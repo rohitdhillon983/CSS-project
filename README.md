@@ -125,4 +125,9 @@ https://verdant-valkyrie-9d3bdf.netlify.app
 
 ![Screenshot (233)](https://user-images.githubusercontent.com/112082808/195661507-16defd0a-3710-4b5a-9da8-4118318c6b06.png)
 
+# CSS - Glassmorphism List Hover Effects
 
+# link 
+https://zesty-macaron-2a2b8e.netlify.app
+
+![Screenshot (234)](https://user-images.githubusercontent.com/112082808/195980849-ed46f5e5-e21f-44b4-b2de-7f490dab2fe2.png)
