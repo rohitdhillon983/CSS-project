@@ -61,10 +61,20 @@ body{
     width: 340px;
     height: 340px;
     border-radius: 50%;
+    animation: animate1 18s linear infinite;
 }
 .text b{
     position: absolute;
     left: 50%;
     display: block;
     transform-origin:0 170px;
+    font-size: 1.4em;
+}
+@keyframes animate1{
+    0%{
+        transform: rotate(0);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
 }
