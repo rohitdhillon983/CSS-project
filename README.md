@@ -38,6 +38,7 @@ https://fantastic-arithmetic-2aa609.netlify.app
 #  link
    https://sprightly-manatee-fd7e8b.netlify.app
    
+![Screenshot (247)](https://user-images.githubusercontent.com/112082808/196476410-589108a0-3416-434e-a75c-d9bfe54773b0.png)
    
    
 # CSS-Project (loading page 2)
