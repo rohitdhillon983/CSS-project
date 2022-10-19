@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #001300;
+}
+.loading{
+    position: relative;
+    display: flex;
+}
+.loading .dot{
+    position: relative;
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: #00ff0a;
+    box-shadow: 0 0 10px #00ff0a,
+    0 0 20px #00ff0a,
+    0 0 40px #00ff0a;
+    margin: 20px 10px;
+    transform: scale(0.1);
+   animation: animatedot 2s linear infinite; 
+   animation-delay: calc(0.1s * var(--i));
+}
+@keyframes animatedot{
+    0%{
+       transform: scale(0.1);
+       filter:hue-rotate(0deg)
+    }
+    10%{
+        transform: scale(1); 
+        /* filter:hue-rotate(180deg) */
+     }
+     50%,100%{
+        transform: scale(0.1); 
+        filter:hue-rotate(360deg)
+     }
+}
+h1{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 0.07cm;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 20px 100px;
+}
+.loading .dot1{
+    position: relative;
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: #00ff0a;
+    box-shadow: 0 0 10px #00ff0a,
+    0 0 20px #00ff0a,
+    0 0 40px #00ff0a;
+    margin: 20px 10px;
+    transform: scale(0.1);
+   animation: animatedot1 2s linear infinite; 
+   animation-delay: calc(-0.1s * var(--i));
+}
+@keyframes animatedot1{
+    0%{
+       transform: scale(0.1);
+       filter:hue-rotate(0deg)
+    }
+    10%{
+        transform: scale(1); 
+        /* filter:hue-rotate(180deg) */
+     }
+     50%,100%{
+        transform: scale(0.1); 
+        filter:hue-rotate(360deg)
+     }
+}
