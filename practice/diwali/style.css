@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #000;
+}
+h2{
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #0e3742;
+    font-size: 90px;
+    font-family: 'Fuzzy Bubbles', cursive;
+    letter-spacing: 5px;
+    line-height: 0.80em;
+    outline: none;
+    -webkit-box-reflect: below 1px linear-gradient(transparent,#0008);
+    animation: animate 2s linear infinite;
+}
+@keyframes animate{
+    0%,18%,20%,50%,60%,65.1%,80%,90%,92%{
+        color: #0e3742;
+        filter: hue-rotate(0);
+        text-shadow: none;
+    }
+    18.1%,20.1%,30%,50.1%,61.1%,65%,80.1%,90.1%,100%{
+        color: aliceblue;
+        filter: hue-rotate(360deg);
+        text-shadow: 0 0 10px #03bcf4,
+        0 0 20px #03bcf4,
+        0 0 40px #03bcf4,
+        0 0 60px #03bcf4,
+        0 0 80px #03bcf4;
+    }
+}
