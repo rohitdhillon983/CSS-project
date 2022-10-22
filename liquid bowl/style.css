@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(34, 33, 33);
+    width: 100%;
+    min-height: 100vh;
+}
+section .bowl{
+    width: 400px;
+    height: 400px;
+    background: #333;
+    border-radius: 50%;
+    border: 8px solid #444;
+    z-index: 1;
+    animation: animate 6s linear infinite;
+    transform-origin: bottom center;
+}
+@keyframes animate{
+    0%{
+        transform: rotate();
+    }
+    25%{
+        transform: rotate(10deg);
+    }
+    50%{
+        transform: rotate();
+    }
+    75%{
+        transform: rotate(-40deg);
+    }
+    100%{
+        transform: rotate();
+    }
+}
+.bowl::before{
+    content: '';
+    position: absolute;
+    top: 35px;
+    left:200px;
+    border: 15px solid #444;
+    background: #333;
+    width: 200px;
+    height: 30px;
+    border-radius: 50%;
+    transform: rotate(42deg);
+    box-shadow: 5px 5px 10px #222;
+    overflow: hidden;
+}
+.liquid{
+    position: relative;
+    top: 182px;
+    left: 0px;
+    width: 100%;
+    height: 200px;
+    background:#13dcff;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+    box-shadow: 0 0 10px #13dcff,
+    0 0 20px #13dcff,
+    0 0 100px #13dcff;
+    animation: animate1 6s linear infinite;
+    transform-origin: top center;
+}
+@keyframes animate1{
+    0%{
+        transform: rotate();
+    }
+    25%{
+        transform: rotate(-15deg);
+    }
+    50%{
+        transform: rotate();
+    }
+    75%{
+        transform: rotate(40deg);
+    }
+    100%{
+        transform: rotate();
+    }
+}
+.liquid::before{
+    content: '';
+    position: absolute;
+    top: -15px;
+    left:0px;
+    /* border: 15px solid #13acff; */
+    background: #26cbfd;
+    width: 384px;
+    height: 30px;
+    border-radius: 50%;
+    /* transform: rotate(17deg); */
+    /* box-shadow: 5px 5px 10px #222; */
+    overflow: hidden;
+}
+.shaddow{
+    position: absolute;
+    top: 83%;
+    left: 50;
+    width: 350px;
+    height: 50px;
+    background: #111;
+    border-radius: 50%;
+    box-shadow: 0 0 20px #111,
+    0 0 40px #111,
+    0 0 60px #111;
+}
