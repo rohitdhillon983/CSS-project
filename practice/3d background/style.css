@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.main{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 350px;
+    height: 350px;
+    /* background: rgb(0, 157, 255); */
+}
+@keyframes animate{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+.box{
+    position: absolute;
+    top:0px;
+    left:0px;
+    width: 350px;
+    height: 350px;
+    background: rgb(0, 157, 255);
+    /* border: 2px solid red; */
+    box-shadow: 0 0 20px #222;
+    border-radius: 10px;
+    animation: animate 8s linear forwards;
+    animation-delay:0.090s;
+}
+.box1{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 300px;
+    height: 300px;
+    background: rgb(0, 179, 255);
+    /* border: 2px solid red; */
+    box-shadow: 0 0 20px #222;
+    border-radius: 10px;
+    animation: animate 8s linear forwards;
+    animation-delay:0.3s;
+}
+.box2{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 250px;
+    height: 250px;
+    background: rgb(0, 213, 255);
+    /* border: 2px solid red; */
+    box-shadow: 0 0 20px #222;
+    border-radius: 10px;
+    animation: animate 8s linear forwards;
+    animation-delay:0.5s;
+ }
+ .box3{
+    position: absolute;
+    top: 75px;
+    left: 75px;
+    width: 200px;
+    height: 200px;
+    background: rgb(0, 247, 255);
+    /* border: 2px solid red; */
+    box-shadow: 0 0 20px #222;
+    border-radius: 10px;
+    animation: animate 8s linear forwards;
+    animation-delay:0.7s;
+ }
+ .box4{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    width: 150px;
+    height: 150px;
+    background: rgb(0, 255, 221);
+    /* border: 2px solid red; */
+    box-shadow: 0 0 20px #222;
+    border-radius: 10px;
+    animation: animate 8s linear forwards;
+    animation-delay:0.9s;
+ }
+ .box5{
+    position: absolute;
+    top: 125px;
+    left: 125px;
+    width: 100px;
+    height: 100px;
+    background: rgb(0, 255, 145);
+    /* border: 2px solid red; */
+    box-shadow: 0 0 20px #222;
+    border-radius: 10px;
+    animation: animate 8s linear forwards;
+    animation-delay:1s;
+ }
+ .box6{
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    width: 50px;
+    height: 50px;
+    background: rgb(0, 255, 98);
+    /* border: 2px solid red; */
+    box-shadow: 0 0 20px #222;
+    border-radius: 10px;
+    animation: animate 8s linear forwards;
+    animation-delay:1.3s;
+ }
