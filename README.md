@@ -243,5 +243,4 @@ https://boisterous-cranachan-82c1b2.netlify.app
 
 # CSS - new_house_project
 # link
- https://unique-starship-af9ea0.netlify.app
-![Screenshot (280)](https://user-images.githubusercontent.com/112082808/200119083-6a4f13d2-c96b-4b0a-b021-18e15e55a2b9.png)
+https://cheerful-speculoos-9dee1a.netlify.app
