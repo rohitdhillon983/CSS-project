@@ -6,6 +6,12 @@ https://symphonious-peony-5e8c1c.netlify.app
 ![Screenshot (249)](https://user-images.githubusercontent.com/112082808/197010305-2e44b99c-949d-4e76-8746-c5965a878bcd.png)
 
 
+# CSS - circle_animation
+# link 
+https://gilded-arithmetic-dab633.netlify.app
+
+![Screenshot (273)](https://user-images.githubusercontent.com/112082808/199267807-9b86d95a-d75c-4af8-989f-8a9c9172c87f.png)
+
 # CSS-project light cube (using animation tool)
 
 # link
@@ -165,3 +171,88 @@ https://zesty-macaron-2a2b8e.netlify.app
 https://elegant-cassata-f8d498.netlify.app
 
 ![Screenshot (248)](https://user-images.githubusercontent.com/112082808/196725941-239ee3cb-d4cd-47c0-8378-b953f0859ba9.png)
+
+
+# CSS - Background
+# link 
+https://curious-truffle-9cd83e.netlify.app
+
+![Screenshot (251)](https://user-images.githubusercontent.com/112082808/197219736-5def786e-fc17-4398-8fb3-84f1ed2167a6.png)
+
+# CSS - Liquid bowl
+# link
+  https://eclectic-madeleine-9ec078.netlify.app
+  
+![Screenshot (252)](https://user-images.githubusercontent.com/112082808/197347486-d058a693-b2fb-4c19-b370-5009e7037094.png)
+
+# CSS - Heart Animation
+# link
+https://playful-stardust-d10424.netlify.app
+
+![Screenshot (254)](https://user-images.githubusercontent.com/112082808/197385808-a172cf41-cdaa-4d5a-b0ee-ddb45acff22b.png)
+
+# CSS- Diwali cub Project
+# link
+https://legendary-sopapillas-d1b328.netlify.app
+
+![Screenshot (259)](https://user-images.githubusercontent.com/112082808/197509469-c5656e60-e271-40b5-9983-6059b80cbb09.png)
+
+# CSS - Milk Animation
+# link
+  https://dapper-creponne-9a4774.netlify.app
+
+![Screenshot (266)](https://user-images.githubusercontent.com/112082808/198080312-5fb72208-344e-4eb2-a707-bf1260e17e4c.png)
+
+
+# CSS - Animation & Hover effect
+# link
+https://cheery-figolla-8145d3.netlify.app
+
+![Screenshot (262)](https://user-images.githubusercontent.com/112082808/198314234-5a087812-326a-4d61-90d1-1387fb2f6505.png)
+
+# CSS - Circle Progress Bar
+# link 
+https://enchanting-praline-259278.netlify.app
+
+![Screenshot (269)](https://user-images.githubusercontent.com/112082808/198809968-591f989b-5d51-4d67-bed7-74faefd518c9.png)
+
+
+#  CSS-square_animation
+# link 
+https://amazing-maamoul-fe972c.netlify.app
+
+![Screenshot (270)](https://user-images.githubusercontent.com/112082808/198873099-bca049ca-8c79-4a35-bbac-79fa643051a2.png)
+
+
+# CSS - jump_ball
+# link
+https://lucent-crumble-ed5876.netlify.app
+
+![Screenshot (272)](https://user-images.githubusercontent.com/112082808/199029393-a1a27f63-70f8-4d2e-a559-79efdcb7ea54.png)
+# CSS - Particles Background
+# link
+https://celadon-platypus-f56912.netlify.app
+
+![Screenshot (277)](https://user-images.githubusercontent.com/112082808/199525118-9f84cc43-8859-4d3b-9cef-87956ef30bb7.png)
+
+# CSS - ring-of-fire Project
+# link - 
+https://boisterous-cranachan-82c1b2.netlify.app
+
+![Screenshot (278)](https://user-images.githubusercontent.com/112082808/199765534-a5fecfee-a65e-4639-9662-d3d9079cb47c.png)
+
+# CSS - new_house_project
+# link
+https://quiet-sable-9eb18a.netlify.app
+![Screenshot (281)](https://user-images.githubusercontent.com/112082808/200156697-fd3b0606-cee5-4c32-85a5-7c927681b748.png)
+
+# CSS - glowing button
+# link
+https://stellular-khapse-69b99e.netlify.app
+![Screenshot (282)](https://user-images.githubusercontent.com/112082808/200341890-b15608ea-b1d3-4371-ade9-46e53114d6bb.png)
+
+# css - new_animation&hover_effect
+# link 
+https://funny-crisp-01d035.netlify.app
+
+![Screenshot (287)](https://user-images.githubusercontent.com/112082808/200600437-964137e5-1341-4471-8166-0c3af5190fac.png)

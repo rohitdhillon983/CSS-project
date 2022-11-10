@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #222;
+}
+.circle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50px;
+    left: 240px;
+    /* border: 1px solid red; */
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    z-index: 1;
+    animation: animatecir 1.5s linear infinite;
+    background: gray;
+    box-shadow: inset -10px -20px 20px  rgb(70, 69, 69);
+}
+@keyframes animatecir{
+    0%,100%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(220px);
+    }
+   
+}
+.shaddow{
+    content: '';
+    position: absolute;
+    z-index: 1;
+    top: 365px;
+    left: 245px;
+    width: 80px;
+    height: 80px;
+    filter: blur(20px);
+    background: rgb(106, 105, 105);
+    transform: rotateX(80deg) translateZ(40px);
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgb(62, 61,61),
+    0 0 20px rgb(62, 61,61),
+    0 0 40px rgb(62, 61,61),
+    0 0 60px rgb(62, 61,61),
+    0 0 80px rgb(62, 61,61),
+    0 0 100px rgb(62, 61,61);
+    animation: animatesd 1.5s linear infinite;
+    /* animation-delay: ; */
+}
+@keyframes animatesd{
+    0%,100%{
+     opacity: 0;
+    }
+    50%{
+     opacity: 1;
+    }
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 210px;
+    left: 200px;
+    transform-style: preserve-3d;
+}
+@keyframes animate{
+    0%{
+        transform: rotateX(5deg) rotateY(0deg);
+
+    }
+    100%{
+        transform: rotateX(5deg) rotateY(360deg);
+    }
+}
+
+.main span{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+    /* border: 1px solid red ; */
+    transform: rotateX(30deg);
+    transform-style: preserve-3d;
+    animation: animate 4s linear infinite;
+  
+}
+.main span::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* border: 1px solid blue; */
+    transform-style: preserve-3d;
+    transform: rotateY(calc(90deg * var(--i))) translateZ(100px);
+    background: rgba(0, 255, 255, 0.694);
+    box-shadow: inset 0 0 10px ,
+    inset 0 0 20px;
+}
