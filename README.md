@@ -248,7 +248,7 @@ https://quiet-sable-9eb18a.netlify.app
 
 # CSS - glowing button
 # link
-https://stellular-khapse-69b99e.netlify.app
+https://earnest-souffle-a71677.netlify.app
 ![Screenshot (282)](https://user-images.githubusercontent.com/112082808/200341890-b15608ea-b1d3-4371-ade9-46e53114d6bb.png)
 
 # css - new_animation&hover_effect
