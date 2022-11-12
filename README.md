@@ -193,7 +193,7 @@ https://playful-stardust-d10424.netlify.app
 
 # CSS- Diwali cub Project
 # link
-https://legendary-sopapillas-d1b328.netlify.app
+https://boisterous-baklava-73574c.netlify.app
 
 ![Screenshot (259)](https://user-images.githubusercontent.com/112082808/197509469-c5656e60-e271-40b5-9983-6059b80cbb09.png)
 
