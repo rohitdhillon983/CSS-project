@@ -219,7 +219,7 @@ https://enchanting-praline-259278.netlify.app
 
 #  CSS-square_animation
 # link 
-https://amazing-maamoul-fe972c.netlify.app
+https://comfy-arithmetic-722731.netlify.app
 
 ![Screenshot (270)](https://user-images.githubusercontent.com/112082808/198873099-bca049ca-8c79-4a35-bbac-79fa643051a2.png)
 
