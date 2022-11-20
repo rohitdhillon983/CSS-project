@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #222;
+    flex-wrap: wrap;
+    overflow: hidden;
+    gap: 4px;
+}
+:root
+{
+    --clr1:#ff0087;
+    --clr2:#01ff5f;
+}
+label{
+    position: relative;
+    width: 150px;
+    height: 150px;
+}
+label input{
+    appearance: none;
+    position: absolute;
+    top: 0px;
+    z-index: 2000;
+    left: 0px;
+    width: 150px;
+    height: 150px;
+   
+}
+label .face{
+    position: absolute;
+    background: #333;
+    inset: 0;
+    cursor: pointer;
+    border-radius: 50%;
+}
+label input:checked ~ .face{
+    background: var(--clr1);
+    z-index: 1000;
+    filter: drop-shadow(0 0 50px var(--clr1))drop-shadow(0 0 100px var(--clr1))
+    drop-shadow(0 0 150px var(--clr1));
+}
+label:nth-child(even) input:checked ~ .face{
+    background: var(--clr2);
+    /* z-index: 1000; */
+    filter: drop-shadow(0 0 50px var(--clr2))drop-shadow(0 0 100px var(--clr2))
+    drop-shadow(0 0 150px var(--clr2));
+}
+label .face::before{
+    content: '';
+    position: absolute;
+    width: 15px;
+    left: 45px;
+    top: 60px;
+    height: 15px;
+    background: #111;
+    opacity: 0.5;
+    border-radius: 50%;
+    box-shadow: 45px 0 0 #111;
+}
+label .face::after{
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 45px;
+    transform: translateX(-50%);
+    background: #111;
+    width: 40px;
+    height: 8px;
+    opacity: 0.5;
+    border-radius: 8px;
+    transition: 0.5s;
+}
+label input:checked ~ .face::after{
+    width:40px;
+    height: 20px;
+    border-radius: 0;
+    background: #111;
+    transform: translateX(-50%) translateY(10px);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius:20px;
+}
