@@ -12,12 +12,7 @@ https://gilded-arithmetic-dab633.netlify.app
 ![Screenshot (273)](https://user-images.githubusercontent.com/112082808/199267807-9b86d95a-d75c-4af8-989f-8a9c9172c87f.png)
 
 
-# CSS-project light cube (using animation tool)
 
-# link
-https://dapper-malasada-9095d6.netlify.app
-
-![Screenshot (206)](https://user-images.githubusercontent.com/112082808/193463971-d39023eb-cdc1-48a1-9b37-72e0f8dd7f1a.png)
  
 # Tubelight text animation
 
