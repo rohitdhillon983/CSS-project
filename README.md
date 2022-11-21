@@ -6,11 +6,7 @@ https://symphonious-peony-5e8c1c.netlify.app
 ![Screenshot (249)](https://user-images.githubusercontent.com/112082808/197010305-2e44b99c-949d-4e76-8746-c5965a878bcd.png)
 
 
-# CSS - circle_animation
-# link 
-https://gilded-arithmetic-dab633.netlify.app
 
-![Screenshot (273)](https://user-images.githubusercontent.com/112082808/199267807-9b86d95a-d75c-4af8-989f-8a9c9172c87f.png)
 
 # CSS-project light cube (using animation tool)
 
