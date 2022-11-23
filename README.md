@@ -303,4 +303,4 @@ https://sunny-mooncake-463743.netlify.app
 
 # CSS - box_style_hover_effect
 # link https://kaleidoscopic-marigold-c43be5.netlify.app
-![Screenshot (299)](https://user-images.githubusercontent.com/112082808/203572843-863247bd-1678-4e17-b88d-f342f4d1070c.png)
+
