@@ -241,6 +241,7 @@ https://fanciful-paletas-0b2736.netlify.app
 
 ![Screenshot (278)](https://user-images.githubusercontent.com/112082808/199765534-a5fecfee-a65e-4639-9662-d3d9079cb47c.png)
 
+
 # CSS - new_house_project
 # link
 https://quiet-sable-9eb18a.netlify.app
@@ -301,6 +302,3 @@ https://sunny-mooncake-463743.netlify.app
 # link https://amazing-unicorn-9909a0.netlify.app
 ![Screenshot (298)](https://user-images.githubusercontent.com/112082808/203361091-51d20c15-115e-4d65-8451-77d0e5cb3a41.png)
 
-# CSS - box_style_hover_effect
-# link https://kaleidoscopic-marigold-c43be5.netlify.app
-![Screenshot (299)](https://user-images.githubusercontent.com/112082808/203572843-863247bd-1678-4e17-b88d-f342f4d1070c.png)
