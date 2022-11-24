@@ -34,12 +34,7 @@ https://fantastic-arithmetic-2aa609.netlify.app
 
 ![Screenshot (208)](https://user-images.githubusercontent.com/112082808/193631191-35db571d-06c2-436b-b203-8807ccbf63e5.png)
 
-# CSS-project multiple-cubes Animation
- 
- # link
- https://splendid-zuccutto-955e4a.netlify.app
- 
- ![Screenshot (209)](https://user-images.githubusercontent.com/112082808/193871160-99cc0621-7fdb-4ada-b23e-3c10bb75a47b.png)
+
 
 # CSS-Project (loading page)
 
