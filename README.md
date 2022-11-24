@@ -217,6 +217,10 @@ https://cheerful-sprinkles-29106b.netlify.app
 ![Screenshot (269)](https://user-images.githubusercontent.com/112082808/198809968-591f989b-5d51-4d67-bed7-74faefd518c9.png)
 
 
+# CSS - box_style_hover_effect
+# link https://kaleidoscopic-marigold-c43be5.netlify.app
+![Screenshot (299)](https://user-images.githubusercontent.com/112082808/203572843-863247bd-1678-4e17-b88d-f342f4d1070c.png)
+
 #  CSS-square_animation
 # link 
 https://comfy-arithmetic-722731.netlify.app
