@@ -72,12 +72,6 @@ https://quiet-pasca-7c65c5.netlify.app
 ![Screenshot (213)](https://user-images.githubusercontent.com/112082808/194246044-f18c955c-9c92-4e52-9de0-963fb61c15e7.png)
 
 
-# CSS-Project (footer)
-
-# link 
-https://soft-mermaid-b67184.netlify.app
-
-![Screenshot (216)](https://user-images.githubusercontent.com/112082808/194546459-a3332ad2-a5e5-440b-ad03-d1c7cb17cc9e.png)
 
 # CSS-Project (Three circle loading page)
 # link
