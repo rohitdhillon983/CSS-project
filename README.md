@@ -311,3 +311,4 @@ https://sparkling-profiterole-04c9d6.netlify.app
 # CSS - icon_and_text_type_animation
 # link
 https://charming-pika-16d33f.netlify.app
+![Screenshot (301)](https://user-images.githubusercontent.com/112082808/204134682-55b717c8-8c24-4716-8fc5-6eaf15c8cd2e.png)
