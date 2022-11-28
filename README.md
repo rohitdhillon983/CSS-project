@@ -54,10 +54,8 @@ https://fantastic-arithmetic-2aa609.netlify.app
    
    
 # CSS-Project (loading page 2)
-
 # link
 https://lively-begonia-492c62.netlify.app
-
 ![Screenshot (212)](https://user-images.githubusercontent.com/112082808/194244912-6754998f-56c5-46cb-b349-804d7880944c.png)
 
 
