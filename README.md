@@ -20,10 +20,8 @@ https://dapper-malasada-9095d6.netlify.app
 
  
 # Tubelight text animation
-
 # link 
 https://moonlit-kitten-a8360b.netlify.app
-
 ![Screenshot (223)](https://user-images.githubusercontent.com/112082808/194761890-4a202cf7-14c5-47f5-b170-52631b769b08.png)
 
 
