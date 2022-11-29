@@ -72,24 +72,18 @@ https://jovial-biscuit-2ad290.netlify.app
 ![Screenshot (217)](https://user-images.githubusercontent.com/112082808/194697256-10c749ea-12db-4cce-bf1c-42bb261fe353.png)
 
 # CSS-Border Animation 
-
 # link 
 https://moonlit-longma-b03952.netlify.app
-
 ![Screenshot (219)](https://user-images.githubusercontent.com/112082808/194737827-5ca7180b-5ec7-446f-9099-a5c54b2ad590.png)
 
 # CSS Glow Icon effect
-
 # link
 https://remarkable-jalebi-62bc58.netlify.app
-
 ![Screenshot (220)](https://user-images.githubusercontent.com/112082808/194738032-6b0aa809-0162-42c8-bed2-93db17a78ae4.png)
 
 # CSS Fingerprint-scanner
-
 # link
 https://famous-fenglisu-f07c75.netlify.app
-
 ![Screenshot (227)](https://user-images.githubusercontent.com/112082808/194899914-0d76ae9d-bff3-4113-8efc-4efa58f7f1dc.png)
 
 
