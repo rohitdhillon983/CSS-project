@@ -90,10 +90,7 @@ https://bejewelled-praline-370777.netlify.app
 ![Screenshot (228)](https://user-images.githubusercontent.com/112082808/195150198-780e8e79-9d63-4cca-b885-ee6065d20f13.png)
 
 
-# CSS - Search box
-# link
-https://exquisite-mermaid-c3245a.netlify.app
-![Screenshot (229)](https://user-images.githubusercontent.com/112082808/195380394-8e9e13e3-1fe0-4338-b3ab-48e15c97c95a.png)
+
 
 
 # CSS - My profile 
