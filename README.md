@@ -128,23 +128,19 @@ https://zesty-macaron-2a2b8e.netlify.app
   ![Screenshot (246)](https://user-images.githubusercontent.com/112082808/196195726-88165573-de1f-4b5f-82b7-2706f0e0b3ab.png)
 
 # CSS - Loading Page 4
-
 # link 
 https://elegant-cassata-f8d498.netlify.app
-
 ![Screenshot (248)](https://user-images.githubusercontent.com/112082808/196725941-239ee3cb-d4cd-47c0-8378-b953f0859ba9.png)
 
 
 # CSS - Background
 # link 
 https://curious-truffle-9cd83e.netlify.app
-
 ![Screenshot (251)](https://user-images.githubusercontent.com/112082808/197219736-5def786e-fc17-4398-8fb3-84f1ed2167a6.png)
 
 # CSS - Liquid bowl
 # link
   https://eclectic-madeleine-9ec078.netlify.app
-  
 ![Screenshot (252)](https://user-images.githubusercontent.com/112082808/197347486-d058a693-b2fb-4c19-b370-5009e7037094.png)
 
 # CSS - Heart Animation
