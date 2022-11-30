@@ -229,18 +229,15 @@ https://legendary-marzipan-315ae0.netlify.app
 # CSS - hover_effect_background
 # link 
 https://rad-lily-0296c8.netlify.app
-
 ![Screenshot (289)](https://user-images.githubusercontent.com/112082808/201687934-ed6d761a-690e-4246-8244-8928b4726e71.png)
 
 # CSS - menu_hover_effect
 # link 
 https://radiant-douhua-e19d0e.netlify.app
-
 ![Screenshot (292)](https://user-images.githubusercontent.com/112082808/201956063-97c24034-f4b4-4d05-bb89-f749e6be1543.png)
 
 # CSS - folding_image
 # link https://inspiring-semifreddo-460816.netlify.app
-
 ![Screenshot (293)](https://user-images.githubusercontent.com/112082808/202477116-a9fb5257-5574-4711-a77f-dcaf8474459b.png)
 
 # CSS - water_wave_text_animation
@@ -251,13 +248,11 @@ https://transcendent-kangaroo-c63837.netlify.app
 # CSS - social_media_icon
 # link 
 https://fancy-dragon-927e22.netlify.app
-
 ![Screenshot (296)](https://user-images.githubusercontent.com/112082808/202855822-8f4be417-6f73-4745-9ea0-1003f082760f.png)
 
 # CSS - smile_face
 # link 
 https://sunny-mooncake-463743.netlify.app
-
 ![Screenshot (297)](https://user-images.githubusercontent.com/112082808/202908881-68f6b0c9-f90a-4166-85ec-9ce85d449ba6.png)
 
 # CSS - Glowing_Gradient_Border
