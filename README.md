@@ -146,32 +146,27 @@ https://curious-truffle-9cd83e.netlify.app
 # CSS - Heart Animation
 # link
 https://playful-stardust-d10424.netlify.app
-
 ![Screenshot (254)](https://user-images.githubusercontent.com/112082808/197385808-a172cf41-cdaa-4d5a-b0ee-ddb45acff22b.png)
 
 # CSS- Diwali cub Project
 # link
 https://boisterous-baklava-73574c.netlify.app
-
 ![Screenshot (259)](https://user-images.githubusercontent.com/112082808/197509469-c5656e60-e271-40b5-9983-6059b80cbb09.png)
 
 # CSS - Milk Animation
 # link
 https://extraordinary-cendol-43b782.netlify.app
-
 ![Screenshot (266)](https://user-images.githubusercontent.com/112082808/198080312-5fb72208-344e-4eb2-a707-bf1260e17e4c.png)
 
 
 # CSS - Animation & Hover effect
 # link
 https://luxury-daifuku-6b4475.netlify.app
-
 ![Screenshot (262)](https://user-images.githubusercontent.com/112082808/198314234-5a087812-326a-4d61-90d1-1387fb2f6505.png)
 
 # CSS - Circle Progress Bar
 # link 
 https://cheerful-sprinkles-29106b.netlify.app
-
 ![Screenshot (269)](https://user-images.githubusercontent.com/112082808/198809968-591f989b-5d51-4d67-bed7-74faefd518c9.png)
 
 
@@ -182,7 +177,6 @@ https://cheerful-sprinkles-29106b.netlify.app
 #  CSS-square_animation
 # link 
 https://comfy-arithmetic-722731.netlify.app
-
 ![Screenshot (270)](https://user-images.githubusercontent.com/112082808/198873099-bca049ca-8c79-4a35-bbac-79fa643051a2.png)
 
 
