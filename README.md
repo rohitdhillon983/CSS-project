@@ -253,3 +253,7 @@ https://sparkling-profiterole-04c9d6.netlify.app
 # link
 https://charming-pika-16d33f.netlify.app
 ![Screenshot (301)](https://user-images.githubusercontent.com/112082808/204134682-55b717c8-8c24-4716-8fc5-6eaf15c8cd2e.png)
+
+# CSS - Avatar Movie UI
+# Link
+https://symphonious-snickerdoodle-8afada.netlify.app
