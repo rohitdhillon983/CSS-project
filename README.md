@@ -257,3 +257,4 @@ https://charming-pika-16d33f.netlify.app
 # CSS - Avatar Movie UI
 # Link
 https://symphonious-snickerdoodle-8afada.netlify.app
+![Screenshot (302)](https://user-images.githubusercontent.com/112082808/205446333-5cbf800e-f369-494e-a62b-6cb2769764e6.png)
