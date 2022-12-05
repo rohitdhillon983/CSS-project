@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #111;
+}
+.main{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 150px;
+    box-shadow: 0 0 20px red,
+    0 0 40px red,
+    0 0 60px red,
+    0 0 80px red,
+    0 0 100px red,
+    0 0 180px red,
+    0 0 210px red;
+    animation: animate 2s linear infinite;
+    filter: blur(80px);
+}
+@keyframes animate{
+    0%{
+        filter: hue-rotate(0deg);
+    }
+    100%{
+        filter: hue-rotate(360deg);
+    }
+}
