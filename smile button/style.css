@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    /* background: #111; */
+   
+}
+.label{
+    position: relative;
+    width: 230px;
+    height: 80px;
+    background: red;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+    /* overflow: hidden; */
+    gap: 70px;
+}
+.label .face{
+    position: relative;
+    top: 2px;
+    left: 3px;
+    width: 75px;
+    height: 75px;
+    background:rgb(255, 255, 255);
+    border-radius: 50%;
+    transform: translateX(170px);
+}
+.label .face::before{
+    content: '';
+    position: absolute;
+    top: 21px;
+    left: 10px;
+    width: 15px;
+    height: 15px;
+    background: #111;
+    border-radius: 50%;
+    box-shadow: 36px 0 0 #111;
+}
+.label .face::after{
+    content: '';
+    position: absolute;
+    top: 47px;
+    left: 20px;
+    width: 30px;
+    height: 10px;
+    background: #111;
+    border-radius: 8px;
+}
+.label input:checked ~ .face{
+   transform: translateX(0px);
+   /* background: blue; */
+}
+.label input:checked ~ .face::after{
+    content: '';
+    position: absolute;
+    top: 47px;
+    left: 20px;
+    width: 30px;
+    height: 15px;
+    background: #111;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+.label label{
+    position: relative;
+    width: 190px;
+    height: 90px;
+    overflow: hidden;
+
+}
+label input{
+    appearance: none;
+    position: absolute;
+    top: 5px;
+    left: -60px;
+    z-index: 1;
+    width: 210px;
+    height: 70px;
+}
