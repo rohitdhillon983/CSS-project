@@ -275,3 +275,4 @@ https://lovely-lollipop-55c4fb.netlify.app
 
 # CSS - quick_loader
 # LINK - https://wonderful-lebkuchen-f0d8ec.netlify.app
+![image](https://user-images.githubusercontent.com/112082808/206193400-fc14a525-b1e4-4256-a8dd-d32cde42d11a.png)
