@@ -279,3 +279,4 @@ https://lovely-lollipop-55c4fb.netlify.app
 
 # CSS - text_type_loader
 # Link - https://fluffy-truffle-f093e9.netlify.app
+![Screenshot (310)](https://user-images.githubusercontent.com/112082808/206455236-7779a7c2-9907-48c3-aece-fd30c2d5dc56.png)
