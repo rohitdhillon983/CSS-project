@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(228, 226, 226);
+}
+label{
+
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+label input{
+    appearance: none;
+        position:absolute;
+        top: 70px;
+        left: 60px;
+        width: 50px;
+        height: 50px;
+        z-index: 1;
+    }
+label input:checked ~ .like{
+    color: #0000ff;
+}
+label .like{
+    position: relative;
+    font-size: 150px;
+}
+label h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    position: absolute;
+    bottom: -20px;
+  left: 30px;
+    color: #0000ff;
+    /* text-shadow: 0 0 10px #0000ff; */
+    border-right: 2px solid #0000ff;
+    animation: animate 4s steps(4) infinite;
+    overflow: hidden;
+}
+@keyframes animate {
+    0%,100%{
+        width: 0;
+    }
+    50%{
+        width: 82.05px;
+    }
+}
