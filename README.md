@@ -289,6 +289,9 @@ https://lovely-lollipop-55c4fb.netlify.app
 # link - https://monumental-capybara-5a914a.netlify.app
 ![Screenshot (312)](https://user-images.githubusercontent.com/112082808/206859043-0514515a-889a-4a6e-a332-ea947a61e216.png)
 
-#CSS - geadent_border_card
+# CSS - geadent_border_card
 # Link https://wonderful-frangipane-472ba0.netlify.app
 ![Screenshot (313)](https://user-images.githubusercontent.com/112082808/206887446-60f3c958-9137-4d7e-a043-79ea04441219.png)
+
+# CSS - mobile_clone
+# Link - https://fascinating-scone-0f2a6e.netlify.app
