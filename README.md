@@ -169,7 +169,6 @@ https://cheerful-sprinkles-29106b.netlify.app
 https://comfy-arithmetic-722731.netlify.app
 ![Screenshot (270)](https://user-images.githubusercontent.com/112082808/198873099-bca049ca-8c79-4a35-bbac-79fa643051a2.png)
 
-
 # CSS - jump_ball
 # link
 https://mellow-gecko-22943f.netlify.app
@@ -184,7 +183,6 @@ https://gregarious-kulfi-e685f6.netlify.app
 # CSS - ring-of-fire Project
 # link - 
 https://fanciful-paletas-0b2736.netlify.app
-
 ![Screenshot (278)](https://user-images.githubusercontent.com/112082808/199765534-a5fecfee-a65e-4639-9662-d3d9079cb47c.png)
 
 
@@ -201,13 +199,11 @@ https://earnest-souffle-a71677.netlify.app
 # css - new_animation&hover_effect
 # link 
 https://resplendent-semifreddo-a13224.netlify.app
-
 ![Screenshot (287)](https://user-images.githubusercontent.com/112082808/200600437-964137e5-1341-4471-8166-0c3af5190fac.png)
 
 # CSS - 3d cube
 # link
 https://legendary-marzipan-315ae0.netlify.app
-
 ![Screenshot (288)](https://user-images.githubusercontent.com/112082808/201526742-9a6f3b74-8a8c-4a43-b36d-b0895a7108fd.png)
 
 # CSS - hover_effect_background
