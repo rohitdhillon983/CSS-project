@@ -47,10 +47,7 @@ https://lively-begonia-492c62.netlify.app
 ![Screenshot (212)](https://user-images.githubusercontent.com/112082808/194244912-6754998f-56c5-46cb-b349-804d7880944c.png)
 
 
-# CSS-Project (light background)
-# link
-https://quiet-pasca-7c65c5.netlify.app
-![Screenshot (213)](https://user-images.githubusercontent.com/112082808/194246044-f18c955c-9c92-4e52-9de0-963fb61c15e7.png)
+
 
 # CSS-Project (footer)
 # link 
