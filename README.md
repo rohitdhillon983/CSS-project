@@ -300,3 +300,6 @@ https://lovely-lollipop-55c4fb.netlify.app
 # CSS - login_page
 # Link - https://zippy-bunny-eb9edd.netlify.app
 ![Screenshot (318)](https://user-images.githubusercontent.com/112082808/207882711-35b10c46-d3e3-45bb-a41a-1f84ac93347c.png)
+
+# CSS - chanel_logo
+# Link - https://cerulean-beijinho-aa51f0.netlify.app
