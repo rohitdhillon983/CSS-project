@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    box-shadow: 0 0 10px #777;
+    border-radius: 30px;
+}
+ul li{
+    position: relative;
+    display: flex;
+    gap: 10px;
+    color: #222;
+    padding: 10px;
+    font-size: 20px;
+    transition: 0.5s;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul li:hover{
+    border-radius: 30px;
+    color: #fff;
+    box-shadow: 0 0 5px #555;
+    background: linear-gradient(rgba(0, 89, 255, 0.842),rgba(255, 0, 221, 0.747));
+}
