@@ -308,3 +308,6 @@ https://lovely-lollipop-55c4fb.netlify.app
 # CSS - nevigation_menu
 # Link - https://jolly-bombolone-7f5ad3.netlify.app
 ![Screenshot (329)](https://user-images.githubusercontent.com/112082808/208246590-efec68ff-402c-4d3d-b9d5-41e63aae5d7e.png)
+
+# CSS - elastic_line_animation_effect
+# Link - https://starlit-faloodeh-eac8e7.netlify.app
