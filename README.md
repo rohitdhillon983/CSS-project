@@ -316,3 +316,6 @@ https://lovely-lollipop-55c4fb.netlify.app
 # CSS - smart_css_challenge
 # Link - https://timely-elf-c7f617.netlify.app
 ![Screenshot (321)](https://user-images.githubusercontent.com/112082808/208444618-fcff0765-8bd0-44f5-8046-711214eaad05.png)
+
+# CSS - police_line_infinity_sticks
+# Link https://zesty-dragon-35b353.netlify.app
