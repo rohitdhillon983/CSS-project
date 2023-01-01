@@ -352,3 +352,6 @@ https://lovely-lollipop-55c4fb.netlify.app
 # CSS - animated_halloween_banner
 # Link - https://jazzy-nasturtium-385feb.netlify.app
 ![Screenshot (345)](https://user-images.githubusercontent.com/112082808/210139316-5a61750e-18e5-4f48-a556-04aa946f0020.png)
+
+# CSS - new_ball_animation
+# Link - https://genuine-stardust-6e0d2e.netlify.app
