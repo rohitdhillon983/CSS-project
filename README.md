@@ -356,3 +356,6 @@ https://lovely-lollipop-55c4fb.netlify.app
 # CSS - new_ball_animation
 # Link - https://genuine-stardust-6e0d2e.netlify.app
 ![Screenshot (346)](https://user-images.githubusercontent.com/112082808/210173531-4eb2e85b-eb19-42c9-92cf-ff6f398019ea.png)
+
+# CSS - new_lagin_page
+# Link - https://elegant-eclair-125127.netlify.app
