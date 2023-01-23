@@ -360,3 +360,6 @@ https://lovely-lollipop-55c4fb.netlify.app
 # CSS - new_lagin_page
 # Link - https://elegant-eclair-125127.netlify.app
 ![Screenshot (348)](https://user-images.githubusercontent.com/112082808/213200541-8bcc6442-9d5c-43a5-a5c3-c584289279a7.png)
+
+# CSS - new_webpage_design
+# Link - https://lucky-mandazi-938f4c.netlify.app
