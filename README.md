@@ -364,3 +364,6 @@ https://lovely-lollipop-55c4fb.netlify.app
 # CSS - new_webpage_design
 # Link - https://lucky-mandazi-938f4c.netlify.app
 ![Screenshot (350)](https://user-images.githubusercontent.com/112082808/214052195-406c05b0-34f0-4305-a984-542b48b84e20.png)
+
+# CSS - New_loader
+# Link - https://symphonious-mousse-6a4706.netlify.app
