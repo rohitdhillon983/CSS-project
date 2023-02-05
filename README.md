@@ -369,7 +369,7 @@ https://lovely-lollipop-55c4fb.netlify.app
 # Link - https://symphonious-mousse-6a4706.netlify.app
 ![Screenshot (395)](https://user-images.githubusercontent.com/112082808/215049208-a1aead01-c866-4b35-9741-fc5c87ee0deb.png)
 
-# Custom checkbox & Power button
+# CSS - Custom checkbox & Power button
 # Link - https://jocular-cendol-b3dbf5.netlify.app
 ![Screenshot (396)](https://user-images.githubusercontent.com/112082808/215323051-0829c3d3-4ccc-4821-b83d-b4c0300db9c0.png)
 
