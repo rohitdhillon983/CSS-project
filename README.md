@@ -1,11 +1,9 @@
 # CSS - House Project
-# link 
-https://symphonious-peony-5e8c1c.netlify.app
+# link - https://symphonious-peony-5e8c1c.netlify.app
 ![Screenshot (249)](https://user-images.githubusercontent.com/112082808/197010305-2e44b99c-949d-4e76-8746-c5965a878bcd.png)
 
 # CSS - circle_animation
-# link 
-https://gilded-arithmetic-dab633.netlify.app
+# link - https://gilded-arithmetic-dab633.netlify.app
 ![Screenshot (273)](https://user-images.githubusercontent.com/112082808/199267807-9b86d95a-d75c-4af8-989f-8a9c9172c87f.png)
 
 # CSS-project light cube (using animation tool)
@@ -24,7 +22,6 @@ https://moonlit-kitten-a8360b.netlify.app
 https://fantastic-arithmetic-2aa609.netlify.app
 ![Screenshot (208)](https://user-images.githubusercontent.com/112082808/193631191-35db571d-06c2-436b-b203-8807ccbf63e5.png)
 
-
 # CSS-project multiple-cubes Animation
  # link
  https://splendid-zuccutto-955e4a.netlify.app
@@ -36,8 +33,7 @@ https://fantastic-arithmetic-2aa609.netlify.app
  ![Screenshot (210)](https://user-images.githubusercontent.com/112082808/193984006-82a50852-c613-45da-a66a-f2fb35188dff.png)
 
 # CSS- Project (hot tea cup animation)
-#  link
-   https://sprightly-manatee-fd7e8b.netlify.app
+#  linkhttps://sprightly-manatee-fd7e8b.netlify.app
 ![Screenshot (247)](https://user-images.githubusercontent.com/112082808/196476410-589108a0-3416-434e-a75c-d9bfe54773b0.png)
    
    
@@ -48,8 +44,7 @@ https://lively-begonia-492c62.netlify.app
 
 
 # CSS-Project (light background)
-# link
-https://quiet-pasca-7c65c5.netlify.app
+# link - https://quiet-pasca-7c65c5.netlify.app
 ![Screenshot (213)](https://user-images.githubusercontent.com/112082808/194246044-f18c955c-9c92-4e52-9de0-963fb61c15e7.png)
 
 # CSS-Project (footer)
