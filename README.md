@@ -382,3 +382,4 @@ https://lovely-lollipop-55c4fb.netlify.app
 
 # CSS - new_clock_design
 # link - https://inspiring-seahorse-63cffe.netlify.app
+![Screenshot (402)](https://user-images.githubusercontent.com/112082808/217214274-722fff5e-0ca7-429a-a292-7a05cb3d761c.png)
