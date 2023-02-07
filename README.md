@@ -7,19 +7,16 @@
 ![Screenshot (273)](https://user-images.githubusercontent.com/112082808/199267807-9b86d95a-d75c-4af8-989f-8a9c9172c87f.png)
 
 # CSS-project light cube (using animation tool)
-# link
-https://dapper-malasada-9095d6.netlify.app
+# link - https://dapper-malasada-9095d6.netlify.app
 ![Screenshot (206)](https://user-images.githubusercontent.com/112082808/193463971-d39023eb-cdc1-48a1-9b37-72e0f8dd7f1a.png)
 
  
 # Tubelight text animation
-# link 
-https://moonlit-kitten-a8360b.netlify.app
+# link  - https://moonlit-kitten-a8360b.netlify.app
 ![Screenshot (223)](https://user-images.githubusercontent.com/112082808/194761890-4a202cf7-14c5-47f5-b170-52631b769b08.png)
 
 # CSS-project 
-# link
-https://fantastic-arithmetic-2aa609.netlify.app
+# link - https://fantastic-arithmetic-2aa609.netlify.app
 ![Screenshot (208)](https://user-images.githubusercontent.com/112082808/193631191-35db571d-06c2-436b-b203-8807ccbf63e5.png)
 
 # CSS-project multiple-cubes Animation
