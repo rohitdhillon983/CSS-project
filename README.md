@@ -20,17 +20,15 @@
 ![Screenshot (208)](https://user-images.githubusercontent.com/112082808/193631191-35db571d-06c2-436b-b203-8807ccbf63e5.png)
 
 # CSS-project multiple-cubes Animation
- # link
- https://splendid-zuccutto-955e4a.netlify.app
+ # link - https://splendid-zuccutto-955e4a.netlify.app
  ![Screenshot (209)](https://user-images.githubusercontent.com/112082808/193871160-99cc0621-7fdb-4ada-b23e-3c10bb75a47b.png)
 
 # CSS-Project (loading page)
- # link
- https://cozy-lily-e7b8c9.netlify.app
+ # link - https://cozy-lily-e7b8c9.netlify.app
  ![Screenshot (210)](https://user-images.githubusercontent.com/112082808/193984006-82a50852-c613-45da-a66a-f2fb35188dff.png)
 
 # CSS- Project (hot tea cup animation)
-#  linkhttps://sprightly-manatee-fd7e8b.netlify.app
+#  link - https://sprightly-manatee-fd7e8b.netlify.app
 ![Screenshot (247)](https://user-images.githubusercontent.com/112082808/196476410-589108a0-3416-434e-a75c-d9bfe54773b0.png)
    
    
