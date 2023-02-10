@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #222;
+    min-height: 100vh;
+}
+.contaner{
+    position: relative;
+    width: 300px;
+    height: 80px;
+    background: #333;
+    border-radius: 40px;
+    transition:0.5s;
+    display: block;
+    overflow: hidden;
+
+}
+.contaner h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+    text-align: center;
+    margin: 20px;
+    color: #04eeff;
+    transition: 0.5s;
+}
+.contaner:hover{
+    height: 420px;
+    padding: 20px;
+    width: 340px;
+}
+.contaner label{
+    position: relative;
+    top: 10px;
+    width: 100%;
+    display: flex;
+    border-radius: 40px;
+    padding: 0 20px;
+    border: 2px solid #222;
+}
+.contaner label:hover{
+    background: #444;
+    box-shadow: 2px 2px 5px #111,
+    inset 2px 2px 5px #999;
+}
+.contaner label input{
+    background: none;
+    border: none; 
+    width: 100%;
+    margin: 10px;
+    height:30px ;
+}
+.contaner label i{
+    height: 100%;
+    font-size: 25px;
+    width: 40px;
+    border-right: 2px solid #04eeff;
+    color: #04eeff;
+    line-height: 50px;
+}
+.contaner .button{
+    text-decoration: none; width: 100%;
+    height: 50px;
+}
+.contaner .button h1:hover{
+    color: #333;
+    background: #04eeff;
+    border: none;
+}
+.contaner .button h1{
+    position: relative;
+    top: 10px;
+    width: 100%;
+    height: 50px;
+    border: 2px solid #222;
+    border-radius: 40px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+    text-align: center;
+    color: #04eeff;
+    transition: 0.5s;
+}
