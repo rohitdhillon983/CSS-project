@@ -53,38 +53,31 @@
 ![Screenshot (217)](https://user-images.githubusercontent.com/112082808/194697256-10c749ea-12db-4cce-bf1c-42bb261fe353.png)
 
 # CSS-Border Animation 
-# link 
-https://moonlit-longma-b03952.netlify.app
+# link - https://moonlit-longma-b03952.netlify.app
 ![Screenshot (219)](https://user-images.githubusercontent.com/112082808/194737827-5ca7180b-5ec7-446f-9099-a5c54b2ad590.png)
 
 # CSS Glow Icon effect
-# link
-https://remarkable-jalebi-62bc58.netlify.app
+# link - https://remarkable-jalebi-62bc58.netlify.app
 ![Screenshot (220)](https://user-images.githubusercontent.com/112082808/194738032-6b0aa809-0162-42c8-bed2-93db17a78ae4.png)
 
 # CSS Fingerprint-scanner
-# link
-https://famous-fenglisu-f07c75.netlify.app
+# link - https://famous-fenglisu-f07c75.netlify.app
 ![Screenshot (227)](https://user-images.githubusercontent.com/112082808/194899914-0d76ae9d-bff3-4113-8efc-4efa58f7f1dc.png)
 
 # Glow ring 
-# link
-https://bejewelled-praline-370777.netlify.app
+# link - https://bejewelled-praline-370777.netlify.app
 ![Screenshot (228)](https://user-images.githubusercontent.com/112082808/195150198-780e8e79-9d63-4cca-b885-ee6065d20f13.png)
 
 # CSS - Search box
-# link
-https://exquisite-mermaid-c3245a.netlify.app
+# link - https://exquisite-mermaid-c3245a.netlify.app
 ![Screenshot (229)](https://user-images.githubusercontent.com/112082808/195380394-8e9e13e3-1fe0-4338-b3ab-48e15c97c95a.png)
 
 # CSS - My profile 
-# link
-https://majestic-fenglisu-b5e17b.netlify.app
+# link - https://majestic-fenglisu-b5e17b.netlify.app
 ![Screenshot (230)](https://user-images.githubusercontent.com/112082808/195632940-62c20ddb-c23f-4347-bf6d-c2525fc37df9.png)
 
 # CSS - QR code scanner
-# link
-https://verdant-valkyrie-9d3bdf.netlify.app
+# link - https://verdant-valkyrie-9d3bdf.netlify.app
 ![Screenshot (233)](https://user-images.githubusercontent.com/112082808/195661507-16defd0a-3710-4b5a-9da8-4118318c6b06.png)
 
 # CSS - Glassmorphism List Hover Effects
