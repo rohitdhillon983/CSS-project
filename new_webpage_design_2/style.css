@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(255, 187, 0);
+}
+.contaner{
+    position: relative;
+    width:950px;
+    height:450px;
+    background: #fff;
+    box-shadow: 0 0 20px #666,
+    0 0 50px #111;
+}
+.contaner::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    width: 300px;
+    height: 100%;
+    background: rgb(255, 187, 0);
+}
+.contaner .menu_bar{
+    width: 100%;
+    position: relative;
+    background: #999;
+    height: 50px;
+    display: flex;
+}
+.contaner .menu_bar .icons{
+    font-size: 25px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    transition: 0.5s;
+    margin-left: 30px;
+}
+.contaner .menu_bar .icons i:hover{
+    color: rgb(255, 187, 0);
+}
+.contaner .menu_bar ul{
+    position: absolute;
+    right: 30px;
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    line-height: 50px;
+}
+.contaner .menu_bar ul li{
+    font-size: 1.3em;
+    transition: 0.5s;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contaner .menu_bar ul li:hover{
+    color: rgb(255, 187, 0);
+    cursor: pointer;
+}
+.contaner .content .img{
+    position: relative;
+    width: 330px;
+    height: 350px;
+    overflow: hidden;
+    left: 100px;
+    top: 20px;
+
+}
+.contaner .content .img img{
+    width: 100%;
+    height: 100%;
+}
+.contaner .content {
+    position: relative;
+    display: flex;
+}
+.contaner .content .namelist{
+    position: relative;
+    width: 400px;
+    left: 150px;
+    /* border: 1px solid #111; */
+}
+.contaner .content .namelist h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-left: 10px;
+    font-size: 2.8em;
+}
+.contaner .content .namelist p{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 10px;
+}
+.contaner .content .namelist h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+}
+.contaner .content .namelist h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+.contaner .content .namelist label{
+    height: 50px;
+
+}
+.contaner .content .namelist label::before{
+    content: 'Subscribe';
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+    padding-left: 10px;
+    position: absolute;
+    left: 60%;
+    width: 40%;
+    height: 50px;
+    background: rgb(255, 187, 0);
+}
+.contaner .content .namelist label input{
+    /* border: none; */
+    width: 70%;
+    height: 50px;
+    
+}
