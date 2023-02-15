@@ -373,3 +373,6 @@ https://lovely-lollipop-55c4fb.netlify.app
 # CSS - 3D multiple checkbox
 # Link - https://admirable-blini-f36fec.netlify.app
 ![Screenshot (407)](https://user-images.githubusercontent.com/112082808/218476595-e6b91fd6-a54a-4ad4-98dc-f8029781b839.png)
+
+# CSS - new_webpage_design_2
+# Link - https://remarkable-horse-3deb22.netlify.app
