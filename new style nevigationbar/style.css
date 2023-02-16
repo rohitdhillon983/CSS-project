@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(184, 236, 251, 0.429);
+}
+label{
+    position: relative;
+    width: 400px;
+    height: 400px;
+}
+label input{
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translate(-50px);
+    width: 70px;
+    height: 70px;
+    z-index: 3;
+    appearance: none;
+}
+label .content{
+    position: absolute;
+    bottom: 60px;
+    transition: 0.5s;
+    width: 0;
+    height: 50px;
+    background: rgb(251, 0, 255);
+    left: 58%;
+    transform: translate(-50px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    overflow: hidden;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3),
+    inset -10px -10px 15px rgba(0, 0, 0, 0.3),
+    inset 10px 10px 15px rgba(255, 255, 255, 0.7),
+    -10px -10px 15px rgba(255, 255, 255, 0.25);
+}
+label .content a{
+    color: #fff;
+    height: 100%;
+    line-height: 50px;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 0.5s;
+}
+label .content a:hover{
+    color: rgb(0, 0, 0);
+    background: #fff;
+    height: 100%;
+    border-radius: 40px;
+    padding: 0 20px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3),
+    inset -5px -5px 15px rgba(0, 0, 0, 0.5),
+    inset 10px 10px 15px rgba(255, 255, 255, 0.9),
+    -10px -10px 15px rgba(255, 255, 255, 0.7);
+}
+label input:checked ~ .content{
+    transform: translateY(-50px);
+    transition-delay: 0.1S;
+    width: 100%;
+    left: 0;
+    border-radius: 40px;
+   
+}
+label span{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 30px;
+    left: 50%;
+    transform: translate(-50px);
+    width: 70px;
+    height: 70px;
+    background: #dcf4fd;
+    border-radius: 50%;
+    z-index: 2;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0,0.2),
+    inset -5px -5px 10px rgba(0, 0, 0,0.3),
+    inset 5px 5px 10px rgba(255, 255, 255,0.5);
+}
+label span i{
+    font-size: 3em;
+    transition: 0.5s;
+    color: rgb(8, 75, 81);
+}
+label input:checked ~ span i{
+    transform: rotate(45deg);
+}
