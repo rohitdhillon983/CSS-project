@@ -102,23 +102,19 @@
 ![Screenshot (251)](https://user-images.githubusercontent.com/112082808/197219736-5def786e-fc17-4398-8fb3-84f1ed2167a6.png)
 
 # CSS - Liquid bowl
-# link
-  https://eclectic-madeleine-9ec078.netlify.app
+# link - https://eclectic-madeleine-9ec078.netlify.app
 ![Screenshot (252)](https://user-images.githubusercontent.com/112082808/197347486-d058a693-b2fb-4c19-b370-5009e7037094.png)
 
 # CSS - Heart Animation
-# link
-https://playful-stardust-d10424.netlify.app
+# link - https://playful-stardust-d10424.netlify.app
 ![Screenshot (254)](https://user-images.githubusercontent.com/112082808/197385808-a172cf41-cdaa-4d5a-b0ee-ddb45acff22b.png)
 
 # CSS- Diwali cub Project
-# link
-https://boisterous-baklava-73574c.netlify.app
+# link - https://boisterous-baklava-73574c.netlify.app
 ![Screenshot (259)](https://user-images.githubusercontent.com/112082808/197509469-c5656e60-e271-40b5-9983-6059b80cbb09.png)
 
 # CSS - Milk Animation
-# link
-https://extraordinary-cendol-43b782.netlify.app
+# link - https://extraordinary-cendol-43b782.netlify.app
 ![Screenshot (266)](https://user-images.githubusercontent.com/112082808/198080312-5fb72208-344e-4eb2-a707-bf1260e17e4c.png)
 
 
