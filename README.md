@@ -373,3 +373,6 @@ https://lovely-lollipop-55c4fb.netlify.app
 # CSS - new_webpage_design_2
 # Link - https://remarkable-horse-3deb22.netlify.app
 ![Screenshot (351)](https://user-images.githubusercontent.com/112082808/219010907-c5b8acf7-c898-4bdd-b611-978167da1079.png)
+
+# CSS - new_style_nevigationbar
+# Link - https://calm-melomakarona-8fcab2.netlify.app
