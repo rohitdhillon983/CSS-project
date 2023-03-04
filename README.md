@@ -119,15 +119,12 @@
 
 
 # CSS - Animation & Hover effect
-# link
-https://luxury-daifuku-6b4475.netlify.app
+# link - https://luxury-daifuku-6b4475.netlify.app
 ![Screenshot (262)](https://user-images.githubusercontent.com/112082808/198314234-5a087812-326a-4d61-90d1-1387fb2f6505.png)
 
 # CSS - Circle Progress Bar
-# link 
-https://cheerful-sprinkles-29106b.netlify.app
+# link - https://cheerful-sprinkles-29106b.netlify.app
 ![Screenshot (269)](https://user-images.githubusercontent.com/112082808/198809968-591f989b-5d51-4d67-bed7-74faefd518c9.png)
-
 
 # CSS - box_style_hover_effect
 # link https://kaleidoscopic-marigold-c43be5.netlify.app
