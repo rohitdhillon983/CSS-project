@@ -374,3 +374,6 @@ https://lovely-lollipop-55c4fb.netlify.app
 # CSS - NEW_animated_gaming_websit
 # Link - https://benevolent-croissant-9bf9b7.netlify.app
 ![Screenshot (409)](https://user-images.githubusercontent.com/112082808/222894683-609787ad-2d6c-4a9c-ac04-42237f3690e4.png)
+
+#CSS - New_style_box_background
+#Link - https://stirring-caramel-5efb2a.netlify.app
