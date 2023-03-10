@@ -10,7 +10,6 @@
 # link - https://dapper-malasada-9095d6.netlify.app
 ![Screenshot (206)](https://user-images.githubusercontent.com/112082808/193463971-d39023eb-cdc1-48a1-9b37-72e0f8dd7f1a.png)
 
- 
 # Tubelight text animation
 # link  - https://moonlit-kitten-a8360b.netlify.app
 ![Screenshot (223)](https://user-images.githubusercontent.com/112082808/194761890-4a202cf7-14c5-47f5-b170-52631b769b08.png)
@@ -149,13 +148,11 @@ https://fanciful-paletas-0b2736.netlify.app
 
 
 # CSS - new_house_project
-# link
-https://quiet-sable-9eb18a.netlify.app
+# link - https://quiet-sable-9eb18a.netlify.app
 ![Screenshot (281)](https://user-images.githubusercontent.com/112082808/200156697-fd3b0606-cee5-4c32-85a5-7c927681b748.png)
 
 # CSS - glowing button
-# link
-https://earnest-souffle-a71677.netlify.app
+# link - https://earnest-souffle-a71677.netlify.app
 ![Screenshot (282)](https://user-images.githubusercontent.com/112082808/200341890-b15608ea-b1d3-4371-ade9-46e53114d6bb.png)
 
 # css - new_animation&hover_effect
