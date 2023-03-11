@@ -166,8 +166,7 @@
 ![Screenshot (289)](https://user-images.githubusercontent.com/112082808/201687934-ed6d761a-690e-4246-8244-8928b4726e71.png)
 
 # CSS - menu_hover_effect
-# link 
-https://radiant-douhua-e19d0e.netlify.app
+# link - https://radiant-douhua-e19d0e.netlify.app
 ![Screenshot (292)](https://user-images.githubusercontent.com/112082808/201956063-97c24034-f4b4-4d05-bb89-f749e6be1543.png)
 
 # CSS - folding_image
@@ -175,13 +174,11 @@ https://radiant-douhua-e19d0e.netlify.app
 ![Screenshot (293)](https://user-images.githubusercontent.com/112082808/202477116-a9fb5257-5574-4711-a77f-dcaf8474459b.png)
 
 # CSS - water_wave_text_animation
-# link
-https://transcendent-kangaroo-c63837.netlify.app
+# link - https://transcendent-kangaroo-c63837.netlify.app
 ![Screenshot (295)](https://user-images.githubusercontent.com/112082808/202738866-b87e30b6-6012-466b-93f3-7f79adede220.png)
 
 # CSS - social_media_icon
-# link 
-https://fancy-dragon-927e22.netlify.app
+# link - https://fancy-dragon-927e22.netlify.app
 ![Screenshot (296)](https://user-images.githubusercontent.com/112082808/202855822-8f4be417-6f73-4745-9ea0-1003f082760f.png)
 
 # CSS - smile_face
