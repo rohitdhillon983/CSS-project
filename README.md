@@ -154,18 +154,15 @@
 ![Screenshot (282)](https://user-images.githubusercontent.com/112082808/200341890-b15608ea-b1d3-4371-ade9-46e53114d6bb.png)
 
 # css - new_animation&hover_effect
-# link 
-https://resplendent-semifreddo-a13224.netlify.app
+# link - https://resplendent-semifreddo-a13224.netlify.app
 ![Screenshot (287)](https://user-images.githubusercontent.com/112082808/200600437-964137e5-1341-4471-8166-0c3af5190fac.png)
 
 # CSS - 3d cube
-# link
-https://legendary-marzipan-315ae0.netlify.app
+# link - https://legendary-marzipan-315ae0.netlify.app
 ![Screenshot (288)](https://user-images.githubusercontent.com/112082808/201526742-9a6f3b74-8a8c-4a43-b36d-b0895a7108fd.png)
 
 # CSS - hover_effect_background
-# link 
-https://rad-lily-0296c8.netlify.app
+# link - https://rad-lily-0296c8.netlify.app
 ![Screenshot (289)](https://user-images.githubusercontent.com/112082808/201687934-ed6d761a-690e-4246-8244-8928b4726e71.png)
 
 # CSS - menu_hover_effect
