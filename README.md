@@ -95,7 +95,6 @@
 # link - https://elegant-cassata-f8d498.netlify.app
 ![Screenshot (248)](https://user-images.githubusercontent.com/112082808/196725941-239ee3cb-d4cd-47c0-8378-b953f0859ba9.png)
 
-
 # CSS - Background
 # link - https://curious-truffle-9cd83e.netlify.app
 ![Screenshot (251)](https://user-images.githubusercontent.com/112082808/197219736-5def786e-fc17-4398-8fb3-84f1ed2167a6.png)
@@ -115,7 +114,6 @@
 # CSS - Milk Animation
 # link - https://extraordinary-cendol-43b782.netlify.app
 ![Screenshot (266)](https://user-images.githubusercontent.com/112082808/198080312-5fb72208-344e-4eb2-a707-bf1260e17e4c.png)
-
 
 # CSS - Animation & Hover effect
 # link - https://luxury-daifuku-6b4475.netlify.app
@@ -182,33 +180,28 @@
 ![Screenshot (296)](https://user-images.githubusercontent.com/112082808/202855822-8f4be417-6f73-4745-9ea0-1003f082760f.png)
 
 # CSS - smile_face
-# link 
-https://sunny-mooncake-463743.netlify.app
+# link - https://sunny-mooncake-463743.netlify.app
 ![Screenshot (297)](https://user-images.githubusercontent.com/112082808/202908881-68f6b0c9-f90a-4166-85ec-9ce85d449ba6.png)
 
 # CSS - Glowing_Gradient_Border
-# link https://amazing-unicorn-9909a0.netlify.app
+# link - https://amazing-unicorn-9909a0.netlify.app
 ![Screenshot (298)](https://user-images.githubusercontent.com/112082808/203361091-51d20c15-115e-4d65-8451-77d0e5cb3a41.png)
 
 # CSS - Magic icon
-# link
-https://sparkling-profiterole-04c9d6.netlify.app
+# link - https://sparkling-profiterole-04c9d6.netlify.app
 ![Screenshot (300)](https://user-images.githubusercontent.com/112082808/204095395-b3e6e32b-f354-4c9d-bed9-49953c8cc7d3.png)
 
 
 # CSS - icon_and_text_type_animation
-# link
-https://charming-pika-16d33f.netlify.app
+# link - https://charming-pika-16d33f.netlify.app
 ![Screenshot (301)](https://user-images.githubusercontent.com/112082808/204134682-55b717c8-8c24-4716-8fc5-6eaf15c8cd2e.png)
 
 # CSS - Avatar Movie UI
-# Link
-https://symphonious-snickerdoodle-8afada.netlify.app
+# Link - https://symphonious-snickerdoodle-8afada.netlify.app
 ![Screenshot (302)](https://user-images.githubusercontent.com/112082808/205446333-5cbf800e-f369-494e-a62b-6cb2769764e6.png)
 
 # CSS - switch_next
-# link 
-https://taupe-gumdrop-1e9ed7.netlify.app
+# link - https://taupe-gumdrop-1e9ed7.netlify.app
 ![Screenshot (305)](https://user-images.githubusercontent.com/112082808/205494797-84e46323-40ce-4867-aa04-92e66511a083.png)
 
 # CSS - glowing_logo
