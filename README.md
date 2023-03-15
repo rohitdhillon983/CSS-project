@@ -321,10 +321,6 @@ https://lovely-lollipop-55c4fb.netlify.app
 # link - https://singular-treacle-1160d6.netlify.app
 ![Screenshot (399)](https://user-images.githubusercontent.com/112082808/216338828-14cf66e8-61d3-4e11-9b7c-a62d9a875c94.png)
 
-# CSS - Liquid Drop Login Page using Html & CSS | Water Drop Effects
-# link - https://stellar-gelato-a07593.netlify.app
-![Screenshot (401)](https://user-images.githubusercontent.com/112082808/216750835-01254362-be93-4b28-bf0f-c60ebbcf5328.png)
-
 # CSS - waterdrop loginpage
 # Link - https://deluxe-paprenjak-12a33f.netlify.app
 ![Screenshot (401)](https://user-images.githubusercontent.com/112082808/216816845-e6e4a80d-db8f-43ed-98e9-fcb9c0cadc3b.png)
