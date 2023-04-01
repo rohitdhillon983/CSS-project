@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(45deg,rgba(255, 255, 0, 0.596),rgb(0, 255, 234),rgb(0, 98, 128));
+}
+.contaner{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 80px;
+}
+.contaner .box{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 10px;
+    background: #fff;
+    transition: 0.5s;
+    overflow: hidden;
+    /* border: 1px solid rgb(154, 168, 245); */
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contaner .box:hover{
+    height: 280px;
+    overflow:visible;
+}
+.contaner .box:hover img{
+    margin-top: -25%;
+    width: 70%;
+    height: calc(190px - 20%);
+    left: 50%;
+    transform: translateX(-50%);
+}
+.contaner .box img{
+    width: 100%;
+    height: 190px;
+    position: relative;
+    transition: 0.5s;
+    border-radius: 10px;
+}
+.contaner .box h1{
+    margin-top: 10px;
+    text-align: center;
+    color: orangered;
+}
+.contaner .box:nth-child(2) h1{
+    color: rgb(255, 0, 212);
+}
+.contaner .box:nth-child(2) a{
+    background: rgb(255, 0, 212);
+}
+.contaner .box:nth-child(3) h1{
+    color: rgb(0, 172, 252);
+}
+.contaner .box:nth-child(3) a{
+    background: rgb(0, 172, 252);
+}
+.contaner .box p{
+    text-align: justify;
+    margin: 10px 0;
+    margin-bottom: 20px;
+}
+.contaner .box a{
+    text-decoration: none;
+    background: orangered;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+    transition: 0.5s;
+}
+.contaner .box a:hover{
+    background: transparent;
+    border: 2px solid orangered;
+    color: orangered;
+}
