@@ -383,3 +383,5 @@ https://lovely-lollipop-55c4fb.netlify.app
 # new style UI card with image
 # link - https://cerulean-kelpie-0cf281.netlify.app
 ![Screenshot (439)](https://user-images.githubusercontent.com/112082808/229330948-c4bfddca-27c9-4d66-b4bb-39847d36b039.png)
+
+# new style menubar
