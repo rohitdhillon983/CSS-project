@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(255, 184, 3);
+    font-size: 10em;
+}
+
+div{
+    background: rgb(255, 184, 3);
+    position: relative;
+    left: -18px;
+    display: flex;
+    padding: 20px;
+    border-radius: 60px;
+    height: 7.3em;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 0 10px #fff;
+}
+
+div span{
+    width: 85px;
+    height: 85px;
+    background: red;
+    border-radius: 50%;
+    box-shadow: inset 6px 6px 10px rgba(0, 0, 0, 0.795);
+}
+div h2{
+    font-size: 7em;
+    color: red;
+    text-shadow: inset 6px 6px 10px rgba(0, 0, 0, 0.795);
+}
