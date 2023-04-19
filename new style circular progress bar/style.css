@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #222;
+}
+.contaner{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+.contaner  .progress{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    color: #fff;
+    background: #444 linear-gradient(to right,transparent 50%,var(--clr)0);
+}
+.contaner .progress h3{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 2.3em;
+    font-weight: 500;
+    z-index: 1;
+}
+.contaner .progress h3 span{
+    font-size: 0.65em;
+}
+.contaner .progress h4{
+    position: absolute;
+    top: 62%;
+    left: 50%;
+    transform: translateX(-50%);
+    color: var(--clr);
+    z-index: 1;
+    font-weight: 500;
+}
+.contaner  .progress::before{
+    content: '';
+    display: block;
+    height: 100%;
+    margin-left: 50%;
+    transform-origin: left;
+    border-radius: 0 100% 100% 0/50%;
+}
+.contaner  .progress::after{
+    content: '';
+    position: absolute;
+    inset: 10px;
+    background: #222;
+    border-radius: 50%;
+
+}
+.progress::before{
+    background: var(--clr);
+    transform: rotate(calc(((var(--i) - 50) * 0.01turn)));
+}
+/* if value is less than 50%  */
+.contaner .progress.less::before{
+    background: #444;
+    transform: rotate(calc(((var(--i) - 0) * 0.01turn)));
+}
