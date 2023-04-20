@@ -402,3 +402,5 @@ https://lovely-lollipop-55c4fb.netlify.app
 # new style border
 # link - https://delicate-pie-598a67.netlify.app
 ![Screenshot (456)](https://user-images.githubusercontent.com/112082808/232486154-93c63021-08e1-4c4a-8ed0-534a4e6c4da7.png)
+
+# new style circular progresbar
